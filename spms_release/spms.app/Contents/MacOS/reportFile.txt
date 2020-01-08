@@ -1,0 +1,4 @@
+Time: Thu Jun  1 14:25:12 2017
+Room: Room
+Mean Intensity: 99 , Variance: 39.2328
+Current Brightness: 93% , Current Blurriness: 91%
